@@ -4,3 +4,5 @@
 # farmers often set traps for the safety of their rice plants, some become victims but the community never decreases
 
 # ospor is a symbol of freedom and independence
+
+# This script is a messenger for racist and arbitrary oppressors.
